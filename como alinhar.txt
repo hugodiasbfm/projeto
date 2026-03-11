@@ -1,0 +1,14 @@
+Como alinhar background ao centro: background: cor(url da imagem) no-repeat center
+
+Como alinhar um botão ao centro:
+position: absolute;
+top: 50%;
+right: 0;
+z-index: 1;
+transorm: translateY(-50%);
+
+OBS: Esse alinhamento de botão foi escrito com base no projeto do curso da Rocketseat, os valores poderão mudar conforme cada projeto feito
+
+Como alinhar um texto ao centro:
+display: flex;
+justify-content: center;
