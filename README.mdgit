@@ -1,0 +1,1 @@
+# projeto initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/Hugo0Dias0Bonfim/projeto.gitgit push -u origin main
